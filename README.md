@@ -1,5 +1,6 @@
-# Re-Brain Profile Information is Building...
-
+<div align="center">
+    # 👋Hi 🧠Re-Brain🧠
+</div>
 <!--
 **Re-Brain/Re-Brain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
