@@ -1,4 +1,4 @@
-# { Under Construction }
+# Re-Brain Profile Information is Building...
 
 <!--
 **Re-Brain/Re-Brain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
