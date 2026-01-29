@@ -2,7 +2,7 @@
     <h1>👋Hi I'm 🧠Re-Brain🧠</h1>
 </div>
 
-### {Working on writing introduction...}
+### {Working on writing some introduction...}
 
 <div align="left">
     <h2>🛠️ Technology Stack 🛠️</h2>
